@@ -1,0 +1,15 @@
+ - id: gallery
+  imagefolder: /img/galleries/gallery-standard-post
+  images:
+  - filename: 11.jpg
+    alttext: pantai rupat
+  - filename: 12.jpg
+    alttext: anjungan seni idrus tintin
+  - filename: 13.jpg
+    alttext: pacu jalur
+  - filename: 14.jpg
+    alttext: pulau jemur
+  - filename: 15.jpg
+    alttext: taman nasional bukit tiga puluh
+  - filename: 16.jpg
+    alttext: selat baru
